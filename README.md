@@ -1,2 +1,5 @@
 # byod-backend
-back end application
+back end 
+
+create a database called byod 
+use port 3307
